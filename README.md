@@ -10,9 +10,7 @@ Jackal Client has obtained [![Stars](https://img.shields.io/github/stars/noexcep
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=3494361276877525&theme=dark)  ![c**n统计](https://stats.justsong.cn/api/csdn/?id=cjz2005&theme=dark)
 
 
-Other Information:
-
-![RandomPicture](https://www.dmoe.cc/random.php)
+![RandomPicture]([https://www.dmoe.cc/random.php](https://img.paulzzh.com/touhou/random))
 
 <!--
 **noexcept2005/noexcept2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
