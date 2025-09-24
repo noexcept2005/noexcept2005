@@ -1,6 +1,6 @@
 ## Wormwake Profile
 
-![github](https://img.shields.io/badge/github-noexcept2005-brightgreen.svg)](https://github.com/noexcept2005) ![github](https://img.shields.io/badge/github-noexcept2005-brightgreen.svg)](https://badgen.net/github/stars/snowdreams1006/gitbook-plugin-mygitalk)
+[![github](https://img.shields.io/badge/github-noexcept2005-brightgreen.svg)](https://github.com/noexcept2005) [![github](https://img.shields.io/badge/github-noexcept2005-brightgreen.svg)](https://badgen.net/github/stars/noexcept2005/gitbook-plugin-mygitalk)
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=noexcept2005&show_icons=true&theme=tokyonight)
 
