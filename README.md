@@ -1,9 +1,10 @@
 ## Wormwake Profile
 
-[![github](https://img.shields.io/badge/github-noexcept2005-brightgreen.svg)](https://github.com/noexcept2005)  [![mikufans](https://img.shields.io/badge/Mikufans-Wormwaker-blue.svg)](https://space.bilibili.com/3494361276877525)   [![C**N](https://img.shields.io/badge/C**N-Bili_Wormwaker-red.svg)](https://blog.csdn.net/cjz2005) 
+[![github](https://img.shields.io/badge/github-noexcept2005-brightgreen?style=flat-square&logo=github&logoColor=white&labelColor=ff69b4)](https://github.com/noexcept2005)  [![mikufans](https://img.shields.io/badge/Mikufans-Wormwaker-blue?style=flat-square&logo=bilibili&logoColor=white&labelColor=ff69b4)](https://space.bilibili.com/3494361276877525)  [![mikufans-live](https://img.shields.io/badge/MikuLive-Wormwaker-brightblue?style=flat-square&logo=bilibili&logoColor=white&labelColor=ff69b4)](http://live.bilibili.com/31196635)  [![C**N](https://img.shields.io/badge/C**N-Bili_Wormwaker-red.svg)](https://blog.csdn.net/cjz2005) 
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=noexcept2005&show_icons=true&theme=tokyonight)           ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=noexcept2005&layout=compact&theme=tokyonight)
 
+[![Stars](https://img.shields.io/github/stars/noexcept2005/phi-plugin?style=flat-square&color=yellow&label=Star)](../../stargazers)
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=3494361276877525&theme=dark)  ![c**n统计](https://stats.justsong.cn/api/csdn/?id=cjz2005&theme=dark)
 
