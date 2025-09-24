@@ -12,7 +12,7 @@ Jackal Client has obtained [![Stars](https://img.shields.io/github/stars/noexcep
 
 Other Information:
 
-![RandomPicture](https://t.alcy.cc/fj)
+![RandomPicture](https://www.dmoe.cc/random.php)
 
 <!--
 **noexcept2005/noexcept2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
